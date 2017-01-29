@@ -1,8 +1,6 @@
 ### 创建项目
 
-```
 使用react-native-cli来创建我们的第一个项目，在终端上运行以下命令：
-```
 
 ```
 react-native-cli init todo
@@ -16,13 +14,11 @@ react-native-cli init todo
 >
 > `brew install yarn`
 
-    `react-native-cli init`命令会初始化一个React Native项目，在这里我们的项目名称是`todo`。初始化完成后，在当前目录下会生成一个todo的文件夹，我们会发现react-native-cli帮助我们初始化了一些目录和文件。
+\`react-native-cli init\`命令会初始化一个React Native项目，在这里我们的项目名称是\`todo\`。初始化完成后，在当前目录下会生成一个todo的文件夹，我们会发现react-native-cli帮助我们初始化了一些目录和文件。
 
 ![](/assets/react-native-cli init todo.png)
 
 ### 
-
-
 
 
 
