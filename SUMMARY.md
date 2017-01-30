@@ -12,4 +12,5 @@
   * [app.js](component/app.js.md)
   * [header.js](component/header.js.md)
   * [footer.js](component/footer.js.md)
+  * [第二次运行](component/second-run.md)
 

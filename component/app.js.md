@@ -1,12 +1,10 @@
-app.js
-
-app.js代码如下：
+# app.js
 
 ```
 // 引入React和Component
 import React, { Component } from "react";
 // 引入View，类似于html的Div
-import { View, } from "react-native";
+import { View, Text, } from "react-native";
 // 引入我们的Header模块
 import Header from "./header";
 // 引入我们的Footer模块
@@ -22,7 +20,9 @@ class App extends Component {
     return (
       <View>
         <Header />
-        <View></View>
+        <View>
+          <Text>我是Content</Text>
+        </View>
         <Footer />
       </View>
     );

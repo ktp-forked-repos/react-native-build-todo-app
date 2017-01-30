@@ -1,4 +1,4 @@
-footer.js
+# footer.js
 
 ```
 // 引入React和Component
