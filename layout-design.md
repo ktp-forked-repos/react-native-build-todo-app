@@ -4,7 +4,7 @@
 
 我们接下来要做的是一个简单的待办列表App，以下是这个app最终的样子：
 
-![](/assets/Simulator Screen Shot 2017年1月30日 上午10.37.49.png)
+![](/assets/todo_app.png)
 
 App布局分成三部分：
 
