@@ -8,7 +8,7 @@
   * [第一次运行](run-ios-and-android-app.md)
 * [布局设计](layout-design.md)
   * [Flex布局](layout-design/flex-layout.md)
-* [component](component.md)
+* [模块划分](component.md)
   * [app.js](component/app.js.md)
   * [header.js](component/header.js.md)
   * [footer.js](component/footer.js.md)

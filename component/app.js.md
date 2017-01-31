@@ -33,4 +33,4 @@ class App extends Component {
 export default App;
 ```
 
-App类的render()方法是App模块的渲染方法，该方法返回一个View模块，其组成是Header和Footer，中间是一个子View
+App类的render()方法是App模块的渲染方法，该方法返回一个View模块，其组成是Header和Footer，中间是一个子View。
