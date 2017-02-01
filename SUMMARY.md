@@ -13,5 +13,5 @@
   * [header.js](component/header.js.md)
   * [footer.js](component/footer.js.md)
   * [第二次运行](component/second-run.md)
-* [Props and State](props-and-state.md)
+* [属性和状态](props-and-state.md)
 
