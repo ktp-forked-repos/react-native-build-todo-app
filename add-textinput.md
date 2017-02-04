@@ -2,7 +2,7 @@
 
 接下来，我们将使用[TextInput](https://facebook.github.io/react-native/docs/textinput.html)作为todo的输入框，将todo item加到todo list里。
 
-首先，思考一下我们要怎么对数据进行管理。对于整个app来说，我们需要有2个状态(state)值，一个用于存储当前正在输入的todo，一个用于存储所有的todo item，这2个状态在app初始状态的时候，都是空的（对于todo list值来说，后面我们需要导入之前 持久存储的数据，这个我们后面再讲），当我们在TextInput中输入字符的时候，会更新当前正在输入的todo value；当我们按下键盘上的"done"按钮的时候，会将这个todo value增加到todo list里，同时将这个value清空。
+首先，思考一下我们要怎么对数据进行管理。对于整个app来说，我们需要有2个状态(state)值，一个用于存储当前正在输入的todo，一个用于存储所有的todo item，这2个状态在app初始状态的时候，都是空的（对于todo list值来说，后面我们需要导入之前持久存储的数据，这个我们后面再讲），当我们在TextInput中输入字符的时候，会更新当前正在输入的todo value；当我们按下键盘上的"done"按钮的时候，会将这个todo value增加到todo list里，同时将这个value清空。
 
 ### 2个state
 1. value: 存储当前正在输入的todo，TextInput onChangeText事件会更新这个状态
