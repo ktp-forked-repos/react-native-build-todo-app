@@ -16,6 +16,7 @@
 * [属性和状态](props-and-state.md)
 * [使用TextInput](add-textinput.md)
 * [使用ListView](listview.md)
-* [Switch on Row](switch-on-row.md)
-* [Remove a todo item](remove-a-todo-item.md)
+* [更新todo状态](switch-on-row.md)
+* [删除todo](remove-a-todo-item.md)
+* [filter todo list](filter-todo-list.md)
 
