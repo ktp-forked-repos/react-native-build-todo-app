@@ -19,4 +19,5 @@
 * [更新todo状态](switch-on-row.md)
 * [删除todo](remove-a-todo-item.md)
 * [filter todo list](filter-todo-list.md)
+* [Persist Items with React Native AsyncStorage](persist-items-with-react-native-asyncstorage.md)
 
