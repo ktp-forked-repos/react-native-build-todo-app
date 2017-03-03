@@ -80,4 +80,4 @@ componentWillMount() {
 </View>}
 ```
 
-本节代码：
+本节代码：https://github.com/zhiwehu/todo/tree/ActivityIndicator
