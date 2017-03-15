@@ -21,4 +21,5 @@
 * [filter todo list](filter-todo-list.md)
 * [使用AsyncStorage](persist-items-with-react-native-asyncstorage.md)
 * [ActivityIndicator](activityindicator.md)
+* [Update todo item text](update-todo-item-text.md)
 
